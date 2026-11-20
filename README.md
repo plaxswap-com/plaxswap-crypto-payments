@@ -1,5 +1,7 @@
 # Plaxswap Crypto Payments for WooCommerce
 
+Setup guide on the Plaxswap site: https://plaxswap.com/integrations/woocommerce
+
 Accept Bitcoin, USDT, Ether and more in WooCommerce. The order moves to Processing once the payment is verified, and the funds land in your own Plaxswap merchant wallet, in the coin the customer paid.
 
 This repository holds the source of the plugin published on WordPress.org as [plaxswap-crypto-payments](https://wordpress.org/plugins/plaxswap-crypto-payments/), version 1.0.2.
